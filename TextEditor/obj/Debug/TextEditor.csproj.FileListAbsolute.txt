@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.frmAboutTextEditor.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.frmTextEditor.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TextEditor.exe.config
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TextEditor.exe
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TextEditor.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.exe
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TextEditor.frmOptions.resources
